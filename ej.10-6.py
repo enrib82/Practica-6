@@ -15,4 +15,4 @@ else:
             dividendo+=1
             li.append(i)
 
-print li
+print  num, "tiene" ,len(li), "caracteres" ,li
